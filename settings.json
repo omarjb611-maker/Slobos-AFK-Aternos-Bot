@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "the8hood.aternos.me:32126",
+    "port": 32126,
     "version": "",
     "try-creative": false
   },
