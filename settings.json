@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "the8hood.aternos.me:32126",
+    "ip": "the8hood.aternos.me",
     "port": 32126,
     "version": "",
     "try-creative": false
